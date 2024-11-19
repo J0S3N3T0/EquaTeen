@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cf617028ab8acd948a92308e8d8a3373
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Qarmic sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4c8d82b0986fa11429e01c7afb81adfe, type: 3}
+  - {fileID: 12800000, guid: 97f72981ae5c545488aa2197adfa5ab1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
